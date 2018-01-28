@@ -1,3 +1,4 @@
 model/*
 *.pickle
 *.ckpt
+*.txt
